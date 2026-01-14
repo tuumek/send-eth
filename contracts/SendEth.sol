@@ -10,4 +10,3 @@ contract SendEth {
         return address(this).balance;
     }
 }
- 
